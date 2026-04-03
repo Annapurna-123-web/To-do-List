@@ -23,7 +23,7 @@ A simple and interactive web application that helps users manage daily tasks eff
 
 # Screenshots
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9e01e758-bb44-484b-a610-ca63af555483" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/46026c1d-c33d-4042-8154-f7371e6b0310" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7bada9a5-68c3-46ab-855b-d7445400217b" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3578c709-d77a-4759-94c8-e2a6b265e141" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/123411de-3b3f-40a1-a9e3-51eb1099abf2" />
 
